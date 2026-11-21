@@ -2,4 +2,3 @@
 
 Cloud Computing & Cybersecurity engineering student, looking for a 2027 PFE internship.
 
-LinkedIn
