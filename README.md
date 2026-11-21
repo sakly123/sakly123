@@ -1,4 +1,4 @@
-<h1 align="center">Ahlem Sakly</h1> <p align="center"> <b>Élève ingénieure en Cloud Computing & Cybersécurité</b> · ESPRIM · Monastir, Tunisie<br> Sécurité applicative · Pentest web & API · DevSecOps </p> <p align="center"> <a href="https://www.linkedin.com/in/sakly-ahlem-836b702b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <img src="https://img.shields.io/badge/Recherche-Stage_PFE_2027-2ea44f?style=flat-square" alt="Recherche stage PFE 2027"> </p>
+<img src="assets/banner.svg" alt="Ahlem Sakly, Cloud Computing et Cybersécurité" width="100%"> <p align="center"> <a href="https://www.linkedin.com/in/sakly-ahlem-836b702b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <img src="https://img.shields.io/badge/Recherche-Stage_PFE_2027-2ea44f?style=flat-square" alt="Recherche stage PFE 2027"> </p>
 À propos
 
 Élève ingénieure en 5e année, spécialité Cloud Computing & Cybersécurité. Je recherche un stage PFE pour 2027 en sécurité applicative, pentest ou DevSecOps.
